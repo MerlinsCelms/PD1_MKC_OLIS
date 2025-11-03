@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OlasSitejs3000\bin\Debug\OlasSitejs3000.exe.config
+C:\Users\User\source\repos\OlasSitejs3000\bin\Debug\OlasSitejs3000.exe
+C:\Users\User\source\repos\OlasSitejs3000\bin\Debug\OlasSitejs3000.pdb
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.Form1.resources
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.PauseMenuForm.resources
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.Properties.Resources.resources
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.exe
+C:\Users\User\source\repos\OlasSitejs3000\obj\Debug\OlasSitejs3000.pdb
